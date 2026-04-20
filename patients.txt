@@ -1,0 +1,80 @@
+1
+John Doe
+30
+Flu
+2
+Jane Smith
+25
+Cold
+3
+Michael Johnson
+40
+Diabetes
+4
+Emily Davis
+35
+Asthma
+5
+Daniel Brown
+50
+Hypertension
+6
+Olivia Wilson
+28
+Allergy
+7
+James Taylor
+45
+Back Pain
+8
+Sophia Martinez
+22
+Migraine
+9
+David Anderson
+60
+Heart Disease
+10
+Isabella Thomas
+33
+Anxiety
+11
+Matthew Jackson
+38
+Arthritis
+12
+Mia White
+27
+Flu
+13
+Christopher Harris
+55
+High Cholesterol
+14
+Amelia Martin
+31
+Thyroid Issues
+15
+Joshua Thompson
+48
+Kidney Stones
+16
+Charlotte Garcia
+26
+Cold
+17
+Andrew Martinez
+42
+Sleep Disorder
+18
+Evelyn Robinson
+29
+Depression
+19
+Joseph Clark
+65
+Diabetes
+20
+Harper Lewis
+24
+Allergy
